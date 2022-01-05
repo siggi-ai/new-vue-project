@@ -6,7 +6,7 @@
       </h1>
 
       <div class="">
-        <h2>this is the mighty author</h2>
+        <h2>nothing here yet</h2>
       </div>
    
   </div>
