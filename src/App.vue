@@ -1,21 +1,17 @@
 <template>
   <div >
     
-      <h1>
-        Author
-      </h1>
-
-      <div class="">
-        <h2>nothing here yet</h2>
-      </div>
+      <Menubar />
    
   </div>
 </template>
 <script>
+import Menubar from "./components/Menubar.vue"
 export default {
   name: "App",
   //
   components: {
+    Menubar,
   },
 };
 </script>
