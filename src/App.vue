@@ -1,8 +1,6 @@
 <template>
   <div >
-    
       <Menubar />
-   
   </div>
 </template>
 <script>

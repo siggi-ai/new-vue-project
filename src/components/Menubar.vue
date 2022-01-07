@@ -1,6 +1,7 @@
 <template>
 <div>
-    menubar
+    
+    menubar or not?
 </div>
 </template>
 
