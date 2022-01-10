@@ -2,7 +2,7 @@
 <div>
     
     menubar or not?
-    we don't know
+    we don't know, or do we?
 </div>
 </template>
 
